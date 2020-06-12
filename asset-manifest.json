@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Avatar-Project/static/css/main.09bbea63.chunk.css",
+    "main.js": "/React-Avatar-Project/static/js/main.97d5d6cc.chunk.js",
+    "main.js.map": "/React-Avatar-Project/static/js/main.97d5d6cc.chunk.js.map",
+    "runtime-main.js": "/React-Avatar-Project/static/js/runtime-main.b3faf02d.js",
+    "runtime-main.js.map": "/React-Avatar-Project/static/js/runtime-main.b3faf02d.js.map",
+    "static/css/2.d811125f.chunk.css": "/React-Avatar-Project/static/css/2.d811125f.chunk.css",
+    "static/js/2.2fa55961.chunk.js": "/React-Avatar-Project/static/js/2.2fa55961.chunk.js",
+    "static/js/2.2fa55961.chunk.js.map": "/React-Avatar-Project/static/js/2.2fa55961.chunk.js.map",
+    "index.html": "/React-Avatar-Project/index.html",
+    "precache-manifest.3808984a8af4d3d4af0876e7014fd399.js": "/React-Avatar-Project/precache-manifest.3808984a8af4d3d4af0876e7014fd399.js",
+    "service-worker.js": "/React-Avatar-Project/service-worker.js",
+    "static/css/2.d811125f.chunk.css.map": "/React-Avatar-Project/static/css/2.d811125f.chunk.css.map",
+    "static/css/main.09bbea63.chunk.css.map": "/React-Avatar-Project/static/css/main.09bbea63.chunk.css.map",
+    "static/js/2.2fa55961.chunk.js.LICENSE.txt": "/React-Avatar-Project/static/js/2.2fa55961.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3faf02d.js",
+    "static/css/2.d811125f.chunk.css",
+    "static/js/2.2fa55961.chunk.js",
+    "static/css/main.09bbea63.chunk.css",
+    "static/js/main.97d5d6cc.chunk.js"
+  ]
+}
