@@ -38,7 +38,7 @@ class Avatar extends Component {
       },
       {
         id : 4,
-        name : "Mark Zukerberg",
+        name : "Mark Zuckerberg",
         work : "CEO facebook"
       }
     ]
